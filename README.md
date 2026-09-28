@@ -51,28 +51,11 @@
 
 ## 📊 Estadísticas de GitHub
 
-<!-- Generadas por .github/workflows/stats.yml -->
 <p align="center">
-  <img src="metrics/general.svg" alt="GitHub metrics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rosmelgomez&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosmelgomez&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="metrics/languages.svg" alt="Lenguajes más usados">
-</p>
-
-<p align="center">
-  <a href="https://github.com/rosmelgomez">
-    <img src="https://streak-stats.demolab.com/?user=rosmelgomez&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak">
-  </a>
-</p>
-
-<p align="center">
-  <img src="metrics/isocalendar.svg" alt="Calendario de contribuciones">
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rosmelgomez/rosmelgomez/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/rosmelgomez/rosmelgomez/output/github-snake.svg" alt="Snake animation">
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=rosmelgomez&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
