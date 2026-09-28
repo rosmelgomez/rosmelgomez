@@ -51,37 +51,28 @@
 
 ## 📊 Estadísticas de GitHub
 
-<!-- Fila 1: resumen + lenguajes en dona -->
+<!-- Generadas por .github/workflows/stats.yml -->
 <p align="center">
-  <a href="https://github.com/rosmelgomez?tab=repositories">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rosmelgomez&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats">
-  </a>
-  <a href="https://github.com/rosmelgomez?tab=repositories">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosmelgomez&theme=tokyonight&layout=donut-vertical&langs_count=6&hide=plpgsql&hide_border=true&custom_title=Lenguajes%20más%20usados" alt="Top languages">
-  </a>
+  <img src="metrics/general.svg" alt="GitHub metrics">
 </p>
 
-<!-- Fila 2: racha animada -->
+<p align="center">
+  <img src="metrics/languages.svg" alt="Lenguajes más usados">
+</p>
+
 <p align="center">
   <a href="https://github.com/rosmelgomez">
     <img src="https://streak-stats.demolab.com/?user=rosmelgomez&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak">
   </a>
 </p>
 
-<!-- Fila 3: gráfica de actividad animada -->
 <p align="center">
-  <a href="https://github.com/rosmelgomez">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rosmelgomez&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph">
-  </a>
+  <img src="metrics/isocalendar.svg" alt="Calendario de contribuciones">
 </p>
 
-<!-- Fila 4: serpiente que se come tus contribuciones -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rosmelgomez/rosmelgomez/output/github-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/rosmelgomez/rosmelgomez/output/github-snake.svg" alt="Snake animation">
   </picture>
 </p>
-  </td>
-</tr>
-</table>
