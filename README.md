@@ -52,8 +52,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rosmelgomez&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosmelgomez&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="Top languages">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rosmelgomez&theme=tokyonight" alt="GitHub stats">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosmelgomez&theme=tokyonight" alt="Top languages">
 </p>
 
 <p align="center">
